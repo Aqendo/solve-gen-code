@@ -12,7 +12,7 @@ using namespace std;
 
 #ifdef SEREGA
 auto __freopen_input_result__ = freopen("input.txt", "r", stdin);
-auto __freopen_output_result__ = freopen("output.txt", "r", stdout);
+// auto __freopen_output_result__ = freopen("output.txt", "r", stdout);
 #else
 #pragma GCC optimize("O3")
 #define endl '\n'
