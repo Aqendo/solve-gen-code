@@ -9,10 +9,9 @@ using namespace std;
 #define int int64_t
 #define all(x) (x).begin(), (x).end()
 #define rall(x) (x).rbegin(), (x).rend()
-
 #ifdef SEREGA
-auto __freopen_input_result__ = freopen("input.txt", "r", stdin);
-// auto __freopen_output_result__ = freopen("output.txt", "r", stdout);
+auto freopen_input_result_ = freopen("../input.txt", "r", stdin);
+// auto freopen_output_result_ = freopen("output.txt", "r", stdout);
 #else
 #pragma GCC optimize("O3")
 #define endl '\n'
