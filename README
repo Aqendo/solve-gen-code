@@ -1,0 +1,9 @@
+этот скрипт я использовал чтобы создавать директории с файликами-шаблонами. 
+
+Example:
+$ mkc cf12 5
+- # mkdir cf12
+- # cp /path/to/mkc/template.cpp cf12/A.cpp
+- # cp /path/to/mkc/template.cpp cf12/B.cpp
+- # cp /path/to/mkc/template.cpp cf12/C.cpp
+- # cp /path/to/mkc/template.cpp cf12/D.cpp
